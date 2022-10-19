@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body{
+    background-color:#ffc017 ;
+}
+
+.container{
+    max-width: 1100px;
+    margin: auto;
+}
+
+div{
+    margin-top: 70px;
+    text-align: center;
+    color: black;
+}
