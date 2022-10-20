@@ -11,7 +11,7 @@ const favoriteColor = prompt ('Inserisci il tuo colore preferito');
 const numberClass = (76);
 
 //WELCOME MESSAGE
-const welcomeMessage = (`${firstName}Massim ${lastName}, ${favoriteColor}, ${numberClass}`)
+const welcomeMessage = (`${firstName} ${lastName}, ${favoriteColor}, ${numberClass}`)
 
 //STAMPA SULLA PAGINA
 document.querySelector('h1').innerHTML = welcomeMessage;
